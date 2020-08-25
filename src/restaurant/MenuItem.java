@@ -59,8 +59,8 @@ public class MenuItem
         return isNew;
     }
 
-    public void setIsNew(boolean isNew)
+    public void setNew(boolean aNew)
     {
-        this.isNew = isNew;
+        isNew = aNew;
     }
 }
